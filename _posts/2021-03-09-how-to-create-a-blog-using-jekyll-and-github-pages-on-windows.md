@@ -24,3 +24,4 @@ jekyll 4.2.0
 ```
 - `jekyll serve`
 - open blog via `http://127.0.0.1:4000/`
+- having trouble with missing resources on github pages
