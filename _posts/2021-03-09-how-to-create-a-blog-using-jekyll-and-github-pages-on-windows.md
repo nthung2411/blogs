@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "How to create a blog using jekyll and github pages"
+date:   2021-03-09 22:13:56 +0700
+categories: jekyll update
+---
 # How to Install Jekyll on Windows
 - https://rubyinstaller.org/downloads/
 - install `Ruby+Devkit 2.7.2-1 (x64)`
